@@ -1,4 +1,4 @@
-<h4>Custom DropDownMenu</h4>
+<h4>Modal Bottom Sheet Dialog</h4>
 <h5>
 Modal bottom sheets present a set of choices while blocking interaction with the rest of the screen. They are an alternative to inline menus and simple dialogs, providing additional room for content, iconography, and actions.
 </h5>
